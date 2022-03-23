@@ -25,4 +25,4 @@ e com a comparação entre os indicadores anual e diário em relação à meta;
 - Projeto desenvolvido em Python -> Jupyter Notebook, disponibilizado em [02 - Automação de Processo.ipynb].
 - Todos os arquivos iniciais estão disponibilizados na pasta [Base de Dados].
 - Todos os arquivos gerados pelo código estão disponibilizados na pasta [Backup Aquivos Lojas].
-- Um exemplo da tabela gerada pelo código em HTML está disponibilizada no arquivo[01 - Exemplo OnePage HTML.png]
+- Um exemplo da tabela gerada pelo código em HTML está disponibilizado no arquivo [01 - Exemplo OnePage HTML.png]
